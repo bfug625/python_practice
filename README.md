@@ -21,19 +21,19 @@ How to run
 
 Most exercises are plain .py files or Jupyter notebooks.
 
-Option A: Run a script
+### Option A: Run a script
 python fundamentals/example.py
 
-Option B: Notebooks
+### Option B: Notebooks
+- **Open the .ipynb files in Jupyter / VS Code.
 
-Open the .ipynb files in Jupyter / VS Code.
-Conventions (so it stays employer-friendly)
-  Exercises typically include:
+## Conventions 
+### Exercises typically include:
     - **problem.md (prompt / requirements)
     - **solution.py or solution.ipynb
     - **optional tests/ for small test cases
-  Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
-  Refactors get a short note in commit messages or in notes/.
+### Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
+### Refactors get a short note in commit messages or in notes/.
 
 Progress log
   I add exercises regularly and try to keep each one small and complete:
