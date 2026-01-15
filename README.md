@@ -29,9 +29,9 @@ python fundamentals/example.py
 
 ## Conventions 
 ### Exercises typically include:
-    - **problem.md (prompt / requirements)
-    - **solution.py or solution.ipynb
-    - **optional tests/ for small test cases
+- **problem.md (prompt / requirements)
+- **solution.py or solution.ipynb
+- **optional tests/ for small test cases
 ### Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
 ### Refactors get a short note in commit messages or in notes/.
 
