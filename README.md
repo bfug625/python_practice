@@ -10,12 +10,12 @@ Goal: rebuild fluency, improve problem-solving speed, and demonstrate consistent
 - **Mini-projects:** slightly larger scripts that combine multiple skills
 
 ## Repo structure
-python_practice/
-warmups/
-fundamentals/
-pandas_labs/
-mini_projects/
-notes/
+python_practice/</br>
+warmups/</br>
+fundamentals/</br>
+pandas_labs/</br>
+mini_projects/</br>
+notes/</br>
 
 ### How to run
 Most exercises are plain .py files or Jupyter notebooks.
@@ -31,8 +31,8 @@ Open the .ipynb files in Jupyter / VS Code.
 - problem.md (prompt / requirements)
 - solution.py or solution.ipynb
 - optional tests/ for small test cases
-Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
-Refactors get a short note in commit messages or in notes/.
+Code prioritizes readability: clear naming, small functions, and docstrings when helpful. </br>
+Refactors get a short note in commit messages or in notes/.</br>
 
 ## Progress log
 ### I add exercises regularly and try to keep each one small and complete:
