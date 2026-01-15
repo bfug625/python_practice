@@ -37,5 +37,5 @@ Refactors get a short note in commit messages or in notes/.</br>
 ## Progress log
 ### I add exercises regularly and try to keep each one small and complete:
 - clear input/output
-- **a couple test cases
-- **basic edge-case handling
+- a couple test cases
+- basic edge-case handling
