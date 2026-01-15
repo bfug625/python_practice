@@ -31,7 +31,7 @@ Open the .ipynb files in Jupyter / VS Code.
 - problem.md (prompt / requirements)
 - solution.py or solution.ipynb
 - optional tests/ for small test cases
-Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
+#### Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
 Refactors get a short note in commit messages or in notes/.
 
 ## Progress log
