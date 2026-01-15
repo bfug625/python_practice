@@ -29,14 +29,14 @@ Option B: Notebooks
 Open the .ipynb files in Jupyter / VS Code.
 Conventions (so it stays employer-friendly)
   Exercises typically include:
-    problem.md (prompt / requirements)
-    solution.py or solution.ipynb
-    optional tests/ for small test cases
+    - **problem.md (prompt / requirements)
+    - **solution.py or solution.ipynb
+    - **optional tests/ for small test cases
   Code prioritizes readability: clear naming, small functions, and docstrings when helpful.
   Refactors get a short note in commit messages or in notes/.
 
 Progress log
   I add exercises regularly and try to keep each one small and complete:
-    clear input/output
-    a couple test cases
-    basic edge-case handling
+    - **clear input/output
+    - **a couple test cases
+    - **basic edge-case handling
